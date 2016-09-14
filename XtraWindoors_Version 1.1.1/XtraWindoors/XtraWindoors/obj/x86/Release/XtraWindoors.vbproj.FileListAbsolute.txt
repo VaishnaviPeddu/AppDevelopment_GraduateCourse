@@ -1,0 +1,555 @@
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\BIS635\Group Assignemnt Folder\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+U:\BIS 635\Project\Li\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\Documents\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+U:\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+U:\Visual Studio 2010\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+C:\Users\peddu1v\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+U:\BIS 635\project\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+U:\BIS 635\project\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\BIS 635\project\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\BIS 635\project\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\BIS 635\project\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\BIS 635\project\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\BIS 635\project\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\BIS 635\project\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\BIS 635\project\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+U:\BIS 635\project\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\Sem 3\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\Sem 3\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\Sem 3\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\Sem 3\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\Sem 3\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\Sem 3\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\Sem 3\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\Sem 3\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+U:\Sem 3\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+U:\BIS 635\Project\R\XtraWindoors_Final 2.0\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+C:\Users\li2n\Desktop\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+C:\Users\madip1ak\Downloads\XtraWindoors (2)\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+U:\Final 635\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+U:\AAA\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+C:\Users\peddu1v\Downloads\XtraWindoors_Version 1.1.22 - Copy\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe.config
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.exe
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.xml
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.accdb
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.Designer.vb
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsc
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xsd
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoorsDataSet.xss
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.exe
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.pdb
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\bin\Release\XtraWindoors.xml
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbprojResolveAssemblyReference.cache
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.About.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.AccesoriesReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.BookingForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ChangePassword.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CheckAvailability.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Contact_Us.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerName.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.CustomerReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.EmployeeForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ForgotPassword.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.HomePageScreen.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.InvoiceReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.LoginForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.Resources.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.RentedStorageForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.ReportForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SaleInvoiceForm.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.SplashScreen.resources
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\XtraWindoors.vbproj.GenerateResource.Cache
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.cache
+C:\Users\peddu1v\Desktop\XtraWindoors_Version 1.1.1\XtraWindoors_Version 1.1.1\XtraWindoors\XtraWindoors\obj\x86\Release\RdlCompile.compiled
